@@ -1,0 +1,67 @@
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+@Article{Repetto2018,
+  author   = {Repetto, Luca},
+  journal  = {The Economic Journal},
+  title    = {Political budget cycles with informed voters: evidence from Italy},
+  year     = {2018},
+  number   = {616},
+  pages    = {3320--3353},
+  volume   = {128},
+  abstract = {I exploit a reform that required Italian municipalities to disclose their balance sheets before elections to study whether having more informed voters affects the political budget cycle. Municipal investment in the year before elections is 28.5% higher than in electoral years, and the reform reduced this pre-electoral spending increase by one-third. I then study the role of local newspapers in disseminating municipal financial information to voters and find that the effect of the reform is twice as large in areas with relatively many newspaper readers, suggesting that mayors react to more informed voters by reducing spending manipulation.},
+  pdf      = {PBC_EJ_final.pdf},
+}
+
+@Article{Carozzi2019,
+  author    = {Carozzi, Felipe and Repetto, Luca},
+  journal   = {Regional Science and Urban Economics},
+  title     = {Distributive politics inside the city? The political economy of Spain's Plan E},
+  year      = {2019},
+  pages     = {85--106},
+  volume    = {75},
+  abstract  = {We study distributive politics inside cities by analysing how local governments allocate investment projects to voters across neighbourhoods. In particular, we ask whether politicians use investment to target their own supporters. To this aim, we use detailed geo-located investment data from \emph{Plan E}, a large fiscal stimulus program carried out in Spain in 2009-2011. Our main empirical strategy is based on a close-elections regression-discontinuity design. In contrast to previous studies -- which use aggregate data at the district or municipal level -- we exploit spatial variation in both investment and voter support within municipalities and find no evidence of supporter targeting. Complementary results indicate that voters may be responding to investment by increasing turnout.},
+  pdf       = {DP_inside_city_Feb_2019_Accepted.pdf},
+  publisher = {North-Holland},
+}
+
+@Article{Repetto2020,
+  author    = {Repetto, Luca and Solis, Alex},
+  journal   = {Journal of the European Economic Association},
+  title     = {The price of inattention: Evidence from the Swedish housing market},
+  year      = {2020},
+  number    = {6},
+  pages     = {3261--3304},
+  volume    = {18},
+  abstract  = {Do behavioral biases affect prices in a high-stakes market? We study the role of left-digit bias in the purchase of an apartment. Left-digit bias is the inability to fully process digits after the first, perceiving prices just below a round number (such as $3.99) as cheaper than their round counterpart ($4). Apartments listed at just-below asking prices are sold at a 3-5% higher final price after an auction. This effect appears not to be driven by differences in observables or in real estate agents' behavior. Auctions for apartments listed just-below are more competitive and attract more bidders and bids.},
+  pdf       = {HousePricesDraft_Sept_2019_JEEA_final.pdf},
+  publisher = {Oxford University Press},
+}
+
+@Article{Carozzi2022,
+  author   = {Carozzi, Felipe and Cipullo, Davide and Repetto, Luca},
+  journal  = {American Economic Journal: Applied Economics},
+  title    = {Political fragmentation and government stability: evidence from local governments in Spain},
+  year     = {2022},
+  number   = {2},
+  pages    = {23--50},
+  volume   = {14},
+  abstract = {This paper studies how political fragmentation affects government stability. Using a regression-discontinuity design, we show that each additional party with representation in the local parliament increases the probability that the incumbent government is unseated by 5 percentage points. The entry of an additional party affects stability by reducing the probability of a single-party majority and increasing the instability of governments when such a majority is not feasible. We interpret our results in light of a bargaining model of coalition formation featuring government instability.},
+  pdf      = {PFGS_CarozziCipulloRepetto_R2_proof.pdf},
+}
+
+@Article{Carozzi2016,
+  author    = {Carozzi, Felipe and Repetto, Luca},
+  journal   = {Journal of Public Economics},
+  title     = {Sending the pork home: Birth town bias in transfers to Italian municipalities},
+  year      = {2016},
+  pages     = {42--52},
+  volume    = {134},
+  abstract  = {We ask whether the birthplaces of Italian members of Parliament are favoured in the allocation of central government transfers. Using a panel of municipalities for the years between 1994 and 2006, we find that municipal governments of legislators' birth towns receive larger transfers per capita. Exploiting variation in birthplaces induced by parliamentary turnover for estimation, we find that this effect is driven by legislators who were born in a town outside their district of election. As a result, we argue that our findings cannot be a consequence of re-election incentives, the usual motivation for pork-barrel policies in the literature. Rather, politicians may be pursuing other personal motives. In line with this hypothesis, we find that the birth town bias essentially disappears when legislative elections are near. We explore several possible mechanisms behind our results by matching parliamentarians to a detailed dataset on local level administrators.},
+  pdf       = {Sending_the_pork_home.pdf},
+  publisher = {Elsevier},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

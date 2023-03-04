@@ -1,18 +1,18 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Carozzi":
+  - firstname: ["Felipe", "F."]
+    url: http://www.felipecarozzi.com 
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Cipullo":
+  - firstname: ["Davide", "D"]
+    url: https://www.davidecipullo.com
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Amengual":
+  - firstname: ["Dante", "D."]
+    url: https://www.cemfi.es/~amengual/ 
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Solis": 
+  - firstname: ["Alex", "A."]
+    url: https://alexsolis.webs.com/ 
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
