@@ -25,6 +25,7 @@
   pages     = {85--106},
   volume    = {75},
   abstract  = {We study distributive politics inside cities by analysing how local governments allocate investment projects to voters across neighbourhoods. In particular, we ask whether politicians use investment to target their own supporters. To this aim, we use detailed geo-located investment data from \emph{Plan E}, a large fiscal stimulus program carried out in Spain in 2009-2011. Our main empirical strategy is based on a close-elections regression-discontinuity design. In contrast to previous studies -- which use aggregate data at the district or municipal level -- we exploit spatial variation in both investment and voter support within municipalities and find no evidence of supporter targeting. Complementary results indicate that voters may be responding to investment by increasing turnout.},
+  blog      = {http://nadaesgratis.es/admin/cuando-keynes-vino-al-pueblo-inversion-municipal-e-incentivos-electorales},
   html      = {https://doi.org/10.1016/j.regsciurbeco.2019.02.002},
   pdf       = {DP_inside_city_Feb_2019_Accepted.pdf},
   publisher = {North-Holland},
