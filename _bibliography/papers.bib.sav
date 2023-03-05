@@ -12,6 +12,8 @@
   pages    = {3320--3353},
   volume   = {128},
   abstract = {I exploit a reform that required Italian municipalities to disclose their balance sheets before elections to study whether having more informed voters affects the political budget cycle. Municipal investment in the year before elections is 28.5% higher than in electoral years, and the reform reduced this pre-electoral spending increase by one-third. I then study the role of local newspapers in disseminating municipal financial information to voters and find that the effect of the reform is twice as large in areas with relatively many newspaper readers, suggesting that mayors react to more informed voters by reducing spending manipulation.},
+  code     = {/assets/replication_data/PBC_Replication_package.zip},
+  html     = {https://doi.org/10.1111/ecoj.12570},
   pdf      = {PBC_EJ_final.pdf},
 }
 
@@ -23,6 +25,7 @@
   pages     = {85--106},
   volume    = {75},
   abstract  = {We study distributive politics inside cities by analysing how local governments allocate investment projects to voters across neighbourhoods. In particular, we ask whether politicians use investment to target their own supporters. To this aim, we use detailed geo-located investment data from \emph{Plan E}, a large fiscal stimulus program carried out in Spain in 2009-2011. Our main empirical strategy is based on a close-elections regression-discontinuity design. In contrast to previous studies -- which use aggregate data at the district or municipal level -- we exploit spatial variation in both investment and voter support within municipalities and find no evidence of supporter targeting. Complementary results indicate that voters may be responding to investment by increasing turnout.},
+  html      = {https://doi.org/10.1016/j.regsciurbeco.2019.02.002},
   pdf       = {DP_inside_city_Feb_2019_Accepted.pdf},
   publisher = {North-Holland},
 }
@@ -36,6 +39,7 @@
   pages     = {3261--3304},
   volume    = {18},
   abstract  = {Do behavioral biases affect prices in a high-stakes market? We study the role of left-digit bias in the purchase of an apartment. Left-digit bias is the inability to fully process digits after the first, perceiving prices just below a round number (such as $3.99) as cheaper than their round counterpart ($4). Apartments listed at just-below asking prices are sold at a 3-5% higher final price after an auction. This effect appears not to be driven by differences in observables or in real estate agents' behavior. Auctions for apartments listed just-below are more competitive and attract more bidders and bids.},
+  html      = {https://academic.oup.com/jeea/article-abstract/18/6/3261/5638038?redirectedFrom=fulltext},
   pdf       = {HousePricesDraft_Sept_2019_JEEA_final.pdf},
   publisher = {Oxford University Press},
 }
@@ -49,6 +53,7 @@
   pages    = {23--50},
   volume   = {14},
   abstract = {This paper studies how political fragmentation affects government stability. Using a regression-discontinuity design, we show that each additional party with representation in the local parliament increases the probability that the incumbent government is unseated by 5 percentage points. The entry of an additional party affects stability by reducing the probability of a single-party majority and increasing the instability of governments when such a majority is not feasible. We interpret our results in light of a bargaining model of coalition formation featuring government instability.},
+  html     = {https://www.aeaweb.org/articles?id=10.1257/app.20200128&from=f},
   pdf      = {PFGS_CarozziCipulloRepetto_R2_proof.pdf},
 }
 
@@ -60,8 +65,42 @@
   pages     = {42--52},
   volume    = {134},
   abstract  = {We ask whether the birthplaces of Italian members of Parliament are favoured in the allocation of central government transfers. Using a panel of municipalities for the years between 1994 and 2006, we find that municipal governments of legislators' birth towns receive larger transfers per capita. Exploiting variation in birthplaces induced by parliamentary turnover for estimation, we find that this effect is driven by legislators who were born in a town outside their district of election. As a result, we argue that our findings cannot be a consequence of re-election incentives, the usual motivation for pork-barrel policies in the literature. Rather, politicians may be pursuing other personal motives. In line with this hypothesis, we find that the birth town bias essentially disappears when legislative elections are near. We explore several possible mechanisms behind our results by matching parliamentarians to a detailed dataset on local level administrators.},
+  code      = {/assets/replication_data/STPH_replication_package.zip},
+  html      = {http://www.sciencedirect.com/science/article/pii/S0047272715002133},
   pdf       = {Sending_the_pork_home.pdf},
   publisher = {Elsevier},
+}
+
+@Unpublished{Amengual2014,
+  author    = {Amengual, Dante and Repetto, Luca},
+  title     = {Testing a large number of hypotheses in approximate factor models},
+  year      = {2014},
+  abstract  = {We propose a method to test hypotheses in approximate factor models when the number of restrictions under the null hypothesis grows with the sample size. We use a simple test statistic, based on the sums of squared residuals of the restricted and the unrestricted versions of the model, and derive its asymptotic distribution under different assumptions on the covariance structure of the error term. We show how to correct the expressions for the limiting mean and variance in the presence of both serial and cross-section correlation and provide estimators for those quantities that are easy to implement. Finally, we illustrate the small sample performance of these testing procedures through Monte Carlo simulations and apply them to reconsider Reis and Watson (2010)'s hypothesis of existence of a pure inflation factor in the US economy.},
+  journal   = {Documentos de Trabajo (CEMFI)},
+  number    = {10},
+  pages     = {1},
+  pdf       = {Amengual_Repetto_Testing_FM_December_2014.pdf},
+  publisher = {Centro de Estudios Monetarios y Financieros (CEMFI)},
+}
+
+@Unpublished{Carozzi2022a,
+  author    = {Carozzi, Felipe and Cipullo, Davide and Repetto, Luca},
+  title     = {Powers that be? Political alignment, government formation, and government stability},
+  year      = {2022},
+  abstract  = {We study how partisan alignment across levels of government affects coalition formation and government stability using a regression discontinuity design and a large dataset of Spanish municipal elections. We document a positive effect of alignment on both government formation and stability. Alignment increases the probability that the most-voted party appoints the mayor and decreases the probability that the government is unseated
+during the term. Aligned parties also obtain sizeable electoral gains in the next elections
+over unaligned ones. We show that these findings are not the consequence of favoritism in
+the allocation of transfers towards aligned governments.},
+  pdf       = {CCR_powers_that_be_Oct_2022.pdf},
+  publisher = {CESifo Working Paper},
+}
+
+@Unpublished{SosaAndres2023,
+  author   = {Sosa Andr{\'e}s, Maximiliano and Repetto, Luca},
+  title    = {Divided government, polarization, and policy: Regression-discontinuity evidence from US states},
+  year     = {2023},
+  abstract = {In this paper we use data on US states and a regression-discontinuity design to study how divided government affects the polarization of the legislature, inter-branch conflict, and policy implementation. We document that republican legislators serving under a divided government have more conservative ideologies than those serving under a fully unified government. We find an opposite effects for Democrats. In terms of policy implementation, we find evidence of moderation: compared to unified republican governments, divided ones with a democratic chamber implement more liberal policies. Correspondingly, when Democrats lose unified control, policies become more conservative.},
+  pdf      = {Divided_government_Sep_2022.pdf},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
