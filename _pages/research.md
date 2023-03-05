@@ -1,12 +1,13 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 repository: /assets/pdf/papers
-title: publications
+title: research
 nav: true
 ---
 
-<div class="publications">
+<div class="research">
  {% bibliography -f papers --group_by type %}
 </div>
+
 

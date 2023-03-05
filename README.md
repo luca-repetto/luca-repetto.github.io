@@ -149,7 +149,7 @@ Images2Symbols (CogSci: <a href="https://images2symbols.github.io/" target="_bla
       - [Upgrading from a previous version](#upgrading-from-a-previous-version)
     + [FAQ](#faq)
   * [Features](#features)
-    + [Publications](#publications)
+    + [Publications](#research)
     + [Collections](#collections)
     + [Layouts](#layouts)
       - [The iconic style of Distill](#the-iconic-style-of-distill)
@@ -373,7 +373,7 @@ If you have a different question, please ask using [Discussions](https://github.
 
 Your publications page is generated automatically from your BibTex bibliography.
 Simply edit `_bibliography/papers.bib`.
-You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
+You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/research.md`.
 
 <p align="center"><img src="https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/publications-screenshot.png" width=800></p>
 
