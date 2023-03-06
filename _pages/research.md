@@ -7,7 +7,6 @@ nav: true
 ---
 
 <div class="research">
- {% bibliography -f papers --group_by type %}
+ {% bibliography -f papers --group_by type  --group_order descending %}
 </div>
-
 
