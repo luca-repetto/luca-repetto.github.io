@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='www.nek.uu.se'> Dept. of Economics, Uppsala University </a>
+subtitle:
 
 
 profile:
@@ -17,8 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an associate professor at the department of Economics, [Uppsala University](www.uu.se) and a research fellow at CESifo. I received my PhD from [CEMFI](www.cemfi.es), Madrid in 2015.
-I am an applied economist, primarily working in political economy. I am also interested in labor economics, economic history, and behavioural economics. 
+I am an associate professor at the [department of Economics](http://www.nek.uu.se), [Uppsala University](http://www.uu.se) and a research fellow at CESifo. I received my PhD from [CEMFI](http://www.cemfi.es), Madrid in 2015.
+
+I am an applied economist, primarily working in political economy, labor economics, economic history, and behavioural economics. 
 
 Here you can find my [publications](/research/) and a [CV](/assets/pdf/CV_Luca_Repetto.pdf).
 
