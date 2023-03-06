@@ -46,7 +46,7 @@
 }
 
 @Article{Carozzi2022,
-  author   = {Carozzi, Felipe and Cipullo, Davide and Repetto, Luca},
+  author   = {Carozzi, Felipe and Cipulland Repetto, Luca},
   journal  = {American Economic Journal: Applied Economics},
   title    = {Political fragmentation and government stability: evidence from local governments in Spain},
   year     = {2022},
@@ -102,6 +102,21 @@ the allocation of transfers towards aligned governments.},
   year     = {2023},
   abstract = {In this paper we use data on US states and a regression-discontinuity design to study how divided government affects the polarization of the legislature, inter-branch conflict, and policy implementation. We document that republican legislators serving under a divided government have more conservative ideologies than those serving under a fully unified government. We find an opposite effects for Democrats. In terms of policy implementation, we find evidence of moderation: compared to unified republican governments, divided ones with a democratic chamber implement more liberal policies. Correspondingly, when Democrats lose unified control, policies become more conservative.},
   pdf      = {Divided_government_Sep_2022.pdf},
+}
+
+@Unpublished{Scarsofwar,
+  author   = {Carozzi, Felipe, Pinchbeck Edward, and Repetto, Luca},
+  title    = {Scars of War: the Legacy of WW1 Deaths on Civic Capital and Combat Motivation},
+  year     = {2023},
+  abstract = {How does the memory of lives lost in past wars shape communities and the next generation of soldiers? We use newly collected geolocated data on British servicemen to study the
+legacy of the Great War mortality shock on local communities and the behaviour of soldiers
+in WW2. We find that community-wide fatalities in WW1 increase the numbers of deaths
+of the next generation in WW2 and the likelihood that these soldiers receive military honours. To explain these findings, we report that WW1 deaths had promoted civic-oriented
+and cooperative behaviours in the inter-war period, as measured by the creation of lasting
+war memorials, veterans’ associations and charities, and increases in voter participation.
+Overall, we present evidence that part of the legacy of the Great War on British servicemen
+runs through and is amplified by civic capital and the remembrance of fallen soldiers.},
+  pdf      = {Draft_wardead_Mar_2023.pdf},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
