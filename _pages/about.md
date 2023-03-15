@@ -25,6 +25,8 @@ Here you can find my [publications](/research/) and a [CV](/assets/pdf/CV_Luca_R
 
 
 We are organizing a Workshop in Economic History in Uppsala, May 25 and 26 2023!  [Call for papers](/assets/Call_for_papers_WEH_upd.pdf)
+
+
 <b>Contact information</b>
 
 E-mail: [luca.repetto@nek.uu.se](mailto:luca.repetto@nek.uu.se) 
