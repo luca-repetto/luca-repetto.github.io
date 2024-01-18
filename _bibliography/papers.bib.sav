@@ -96,13 +96,33 @@ the allocation of transfers towards aligned governments.},
   publisher = {CESifo Working Paper},
 }
 
-@Unpublished{SosaAndres2023,
-  author   = {Sosa Andres, Maximiliano and Repetto, Luca},
-  title    = {Divided government, polarization, and policy: Regression-discontinuity evidence from US states},
-  year     = {2023},
-  abstract = {In this paper we use data on US states and a regression-discontinuity design to study how divided government affects the polarization of the legislature, inter-branch conflict, and policy implementation. We document that republican legislators serving under a divided government have more conservative ideologies than those serving under a fully unified government. We find an opposite effects for Democrats. In terms of policy implementation, we find evidence of moderation: compared to unified republican governments, divided ones with a democratic chamber implement more liberal policies. Correspondingly, when Democrats lose unified control, policies become more conservative.},
-  pdf      = {Divided_government_Sep_2022.pdf},
+@article{Carozzi2022a,
+  title={Powers that be? Political alignment, government formation, and government stability},
+  author={Carozzi, Felipe and Cipullo, Davide and Repetto, Luca},
+  journal={Journal of Public Economics},
+  volume={230},
+  pages={105017},
+  year={2024},
+  publisher={Elsevier}
+  pdf  = {PTB_Jpub_final.pdf},
+  html      = {https://www.sciencedirect.com/science/article/pii/S0047272723001998},
 }
+
+@article{SosaAndres2023,
+  title={Divided government, polarization, and policy: Regression-discontinuity evidence from US states},
+  author   = {Sosa Andres, Maximiliano and Repetto, Luca},
+  journal={European Journal of Political Economy},
+  volume={80},
+  pages={102473},
+  year={2023},
+  publisher={Elsevier}
+  html      = {https://www.sciencedirect.com/science/article/pii/S0176268023001179#sec2}, 
+  pdf      = {Divided_government_Sep_2022.pdf},
+  abstract = {In this paper we use data on US states and a regression-discontinuity design to study how divided government affects the polarization of the legislature, inter-branch conflict, and policy implementation. We document that republican legislators serving under a divided government have more conservative ideologies than those serving under a fully unified government. We find an opposite effects for Democrats. In terms of policy implementation, we find evidence of moderation: compared to unified republican governments, divided ones with a democratic chamber implement more liberal policies. Correspondingly, when Democrats lose unified control, policies become more conservative.},
+}
+
+
+
 
 @Unpublished{Scarsofwar,
   author   = {Carozzi, Felipe, and Pinchbeck, Edward, and Repetto, Luca},
