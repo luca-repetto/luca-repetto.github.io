@@ -3,6 +3,7 @@ layout: page
 permalink: /research/
 repository: /assets/pdf/papers
 title: research
+description: publications and working papers
 nav: true
 ---
 
