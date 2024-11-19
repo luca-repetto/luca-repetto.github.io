@@ -24,7 +24,10 @@ I am an applied economist, primarily working in political economy and economic h
 Here you can find my [publications](/research/) and a [CV](/assets/pdf/CV_Luca_Repetto.pdf).
 
 
- <!-- We are organizing a Workshop in Economic History in Uppsala, May 23 and 24 2024!  [Program](/assets/pdf/Call for papers 2024.pdf) -->
+We are organizing the 3rd edition of the Workshop in Economic History in Uppsala, May 22 and 23 2025!  
+
+[Program](/assets/pdf/Call for papers 2025.pdf), 
+[Submission link](https://docs.google.com/forms/d/e/1FAIpQLSfzVbAr-GIs53GOV__mEe4N3Ht-tARPE9Azl6gY7eny8TEKKA/viewform)
 
 
 <b>Contact information</b>
