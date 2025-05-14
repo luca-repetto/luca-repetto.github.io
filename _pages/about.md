@@ -26,7 +26,7 @@ Here you can find my [publications](/research/) and a [CV](/assets/pdf/CV_Luca_R
 
 We are organizing the 3rd edition of the Workshop in Economic History in Uppsala, May 22 and 23 2025!  
 
-[Program](/assets/pdf/Workshop_Economic_History_program_2025.pdf), 
+[Program](/assets/pdf/Workshop_Economic_History_program_2025.pdf)
 
 
 <b>Contact information</b>
