@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-Political Economics (Master in Economics): [2020](/assets/pdf/teaching/Plan of lectures 2020.pdf), [2021](/assets/pdf/teaching/Plan of lectures 2021.pdf), [2022](/assets/pdf/teaching/Plan of lectures 2022.pdf), [2023](/assets/pdf/teaching/Plan of lectures 2023.pdf), [2024](/assets/pdf/teaching/Plan of lectures 2024.pdf).
+Political Economics (Master in Economics): [2020](/assets/pdf/teaching/Plan of lectures 2020.pdf), [2021](/assets/pdf/teaching/Plan of lectures 2021.pdf), [2022](/assets/pdf/teaching/Plan of lectures 2022.pdf), [2023](/assets/pdf/teaching/Plan of lectures 2023.pdf), [2024](/assets/pdf/teaching/Plan of lectures 2024.pdf), 2025.
 
-Econometrics II (PhD) : [2016](/assets/pdf/teaching/Program_2016_econometrics_2.pdf), [2017](/assets/pdf/teaching/Program_2017_econometrics_2.pdf), [2018](/assets/pdf/teaching/Program_2018_econometrics_2.pdf), [2019](/assets/pdf/teaching/Program_2019.pdf), [2020](/assets/pdf/teaching/Program_2020.pdf), [2021](/assets/pdf/teaching/Program_2021.pdf), [2022](/assets/pdf/teaching/Program_2022.pdf), [2023](/assets/pdf/teaching/Program_2023.pdf), [2024](/assets/pdf/teaching/Program_2024.pdf), 2025.
+Econometrics II (PhD) : [2016](/assets/pdf/teaching/Program_2016_econometrics_2.pdf), [2017](/assets/pdf/teaching/Program_2017_econometrics_2.pdf), [2018](/assets/pdf/teaching/Program_2018_econometrics_2.pdf), [2019](/assets/pdf/teaching/Program_2019.pdf), [2020](/assets/pdf/teaching/Program_2020.pdf), [2021](/assets/pdf/teaching/Program_2021.pdf), [2022](/assets/pdf/teaching/Program_2022.pdf), [2023](/assets/pdf/teaching/Program_2023.pdf), [2024](/assets/pdf/teaching/Program_2024.pdf), [2025](/assets/pdf/teaching/Literature Econometrics II_part_2_2025.pdf).
 
 Econometric Theory (Master in Economics): [2016](/assets/pdf/teaching/Program_2016.pdf), [2017](/assets/pdf/teaching/Program_2017.pdf). 
 
